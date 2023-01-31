@@ -1,0 +1,14 @@
+#ISSmap {
+    height: 280px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+p,
+span {
+    font-size: 1.5rem;
+}
